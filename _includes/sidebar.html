@@ -1,0 +1,26 @@
+<div class="main-header">
+  <h1>  <a href="/" title="Home">{{ site.title }}</a> </h1>
+  <h4> {{ site.tagline }} </h4>
+
+  <ul class="nav nav-pills nav-stacked main-navigation">
+    {% for page in site.pages_list %}
+      <li role="presentation"><a href="{{ page[1]  }}.html">{{ page[0] }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+
+  <footer class="footer">
+    <small>
+      &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+    </small>
+  </footer>
+
+</div>
+
+
+<!--
+<script data-gittip-username="tkwidmer"
+  src="//gttp.co/v1.js"></script>
+ -->

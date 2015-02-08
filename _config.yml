@@ -1,0 +1,32 @@
+title:            Teagan Widmer
+email:            tkwidmer@gmail.com
+blog_title:       A Cubicle Of My Own
+tagline:          Software Engineer and Writer
+url:              http://www.teaganwidmer.me
+paginate:         1
+author:
+  name:           Teagan Widmer
+  url:            https://www.teaganwidmer.me
+  email:          tkwidmer@gmail.com
+  twitter:        https://twitter.com/twidx
+
+
+# Site settings
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.teaganwidmer.me" # the base hostname & protocol for your site
+twitter_username: twidx
+github_username:  tkwidmer
+
+# Build settings
+markdown: kramdown
+
+pages_list:
+  Home: '/'
+  Programming: '/programming'
+  Blog: '/blog'
+  Feed: '/atom.xml'

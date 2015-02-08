@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    <div id="main-layout" class="container-fluid">
+      <div class="row">
+        <div class="col-md-12 visable-xs visable-sm hidden-md hidden-lg">
+          <-- Mobile Nav goes here
+        </div>
+      </div>
+
+      <div class="row">
+        <div id="main-sidebar" class="col-md-4 hidden-xs hidden-sm">
+          {% include sidebar.html %}
+        </div>
+
+        <div id="main-content" class="col-md-8 col-md-offset-4 clearfix">
+          <div class="page-content">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+
+</html>
