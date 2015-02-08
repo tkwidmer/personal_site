@@ -29,3 +29,5 @@ pages_list:
   Programming: '/programming.html'
   Blog: '/blog.html'
   Feed: '/feed.xml'
+
+exclude: ['vendor']
