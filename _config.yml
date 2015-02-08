@@ -14,9 +14,8 @@ author:
 # Site settings
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Teagan Widmer is a software engineer, writer, artist and activist from San Francisco.
+  She writes about feminism, diveristy in tech, and the lgbt community.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.teaganwidmer.me" # the base hostname & protocol for your site
 twitter_username: twidx
@@ -30,5 +29,11 @@ pages_list:
   Programming: '/programming.html'
   Blog: '/blog.html'
   Feed: '/feed.xml'
+
+social_links:
+  - icon: fa-twitter
+    url: http://www.twitter.com/twidx
+  - icon: fa-github
+    url: http://www.github.com/tkwidmer
 
 exclude: ['vendor']
