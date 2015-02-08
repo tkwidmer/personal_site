@@ -16,7 +16,16 @@ I am not currently looking for an opportunity. But I would listen to an interest
 [Resume](https://docs.google.com/document/d/11Uvv3uxXltYFgeQTv6kBhzuKZ8H2gMs5N0-n6VrXwS0/edit?usp=sharing)
 
 ### Languages and Skills
-Ruby. Rails. Javascript. Coffeescript. Jquery. Backbone.js. Ember.js. HMTL. haml. CSS. SASS. git. rspec. Twitter Bootstrap. SQL(Postgres, MySQL, SQLite3). Google Scripts. Adobe Suite(Photoshop, Indesign)
+
+| Languages                                                     | Frameworks & Libraries                                  |
+|---------------------------------------------------------------|---------------------------------------------------------|
+| Ruby. CoffeeScript. Javascript. Html. Haml. CSS. SASS/SCSS    | Rails. Backbone.js. Ember.js. jQuery. Jekyll. Bootstrap |
+|                                                               |                                                         |
+| <strong>Tools </strong>                                       | <strong> Databases </strong>                            |
+|---------------------------------------------------------------|---------------------------------------------------------|
+| git. rspec.  Adobe Photoshop Adobe Indesign Adobe Illustrator | Postgres. MySQL. SQLite3                                |
+
+<br>
 
 ### Experiance
   - **Software Engineer** @ [FutureAdvisor](https://www.futureadvisor.com/)
