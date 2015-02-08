@@ -1,26 +1,24 @@
 <div class="main-header">
   <h1>  <a href="/" title="Home">{{ site.title }}</a> </h1>
-  <h4> {{ site.tagline }} </h4>
+  <p> {{ site.tagline }} <p>
 
   <ul class="nav nav-pills nav-stacked main-navigation">
     {% for page in site.pages_list %}
-      <li role="presentation"><a href="{{ page[1]  }}">{{ page[0] }}</a></li>
+      <li role="presentation"><a href="{{ page[1]}}">{{ page[0] }}</a></li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <div class="headroom">
+    <script data-gittip-username="tkwidmer"
+      src="//gttp.co/v1.js"></script>
+  </div>
 
-
-  <footer class="footer">
+  <footer class="footer even-more-headroom">
     <small>
-      &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+      no copyright. jekyll. bootstrap. etc
     </small>
   </footer>
 
 </div>
 
 
-<!--
-<script data-gittip-username="tkwidmer"
-  src="//gttp.co/v1.js"></script>
- -->

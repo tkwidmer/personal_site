@@ -5,7 +5,7 @@ title: A Cubicle Of My Own
 
 <div class="posts">
   {% for post in site.posts %}
-  <article class="post">
+  <article class="post even-more-headroom">
     <h3 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
