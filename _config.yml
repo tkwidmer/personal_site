@@ -26,6 +26,7 @@ github_username:  tkwidmer
 markdown: kramdown
 
 pages_list:
+  About: '/'
   Programming: '/programming.html'
   Blog: '/blog.html'
   Feed: '/feed.xml'
