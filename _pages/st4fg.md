@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Survival Tips 4 Future Girls
+permalink: '/survivaltips4futuregirls/'
 ---
 
 # #SurvivalTips4FutureGirls

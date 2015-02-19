@@ -27,7 +27,7 @@ I am not currently looking for an opportunity. But I would listen to an interest
 
 <br>
 
-### Experiance
+### Experience
   - **Software Engineer** @ [FutureAdvisor](https://www.futureadvisor.com/)
     - Software Engineer on the full web stack. Ruby on Rails. MySQL, haml, sass, coffeescript (jquery, Ember.js, Backbone.js).
     - Headed up the 'Growth Team,' a quick moving agile team that focused on growing the company through experimental funnels, new technologies, and fresh campaigns.
