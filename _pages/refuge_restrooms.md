@@ -24,6 +24,7 @@ REFUGE restrooms is a web application that indexes and maps unisex and other saf
 
 ##### Press
   <ul>
+    <li> <a href="http://time.com/3734714/transgender-bathroom-bills-lgbt-discrimination/" Time Magazine on Legislative Battles for Trans People's Bathroom Access </a> </li>
     <li> <a href="http://www.advocate.com/politics/transgender/2014/02/07/trans-woman-releases-bathroom-finder-app-refuge-restrooms"> The Advocate's writeup. </a> </li>
     <li> <a href="http://m.huffpost.com/us/entry/4738425?utm_hp_ref=gay-voices"> The Huffington Post's writeup. </a> </li>
     <li> <a href="http://www.autostraddle.com/refuge-restrooms-new-website-helps-you-find-gender-safe-public-restrooms-222098/"> Autostraddle's writeup. </a> </li>
