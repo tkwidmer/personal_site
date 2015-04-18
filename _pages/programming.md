@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Programming
+permalink: '/pages/programming.html'
 ---
 # Programming
 
@@ -17,13 +18,41 @@ I am not currently looking for an opportunity. But I would listen to an interest
 
 ### Languages and Skills
 
-| Languages                                                     | Frameworks & Libraries                                  |
-|---------------------------------------------------------------|---------------------------------------------------------|
-| Ruby. CoffeeScript. Javascript. Html. Haml. CSS. SASS/SCSS    | Rails. Backbone.js. Ember.js. jQuery. Jekyll. Bootstrap |
-|                                                               |                                                         |
-| <strong>Tools </strong>                                       | <strong> Databases </strong>                            |
-|---------------------------------------------------------------|---------------------------------------------------------|
-| git. rspec.  Adobe Photoshop Adobe Indesign Adobe Illustrator | Postgres. MySQL. SQLite3                                |
+
+<table>
+  <tr>
+    <th>
+      Languages
+    </th>
+    <th>
+      Frameworks & Libraries
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Ruby. CoffeeScript. Javascript. Html (Haml, ERB, JST, Slim). CSS. SASS/SCSS
+    </td>
+    <td>
+      Rails. Backbone.js. Ember.js. Marionette. jQuery. Sinatra. Jekyll. Bootstrap
+    </td>
+  </tr>
+  <tr class="headroom">
+    <th>
+      Tools
+    </th>
+    <th>
+      Databases
+    </th>
+  </tr>
+  <tr>
+    <td>
+      git. rspec.  Adobe Photoshop Adobe Indesign Adobe Illustrator
+    </td>
+    <td>
+      Postgres. MySQL. SQLite3
+    </td>
+  </tr>
+</table>
 
 <br>
 

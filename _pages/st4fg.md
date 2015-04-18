@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survival Tips 4 Future Girls
-permalink: '/pages/st4fg/'
+permalink: '/pages/st4fg.html'
 ---
 
 # #SurvivalTips4FutureGirls

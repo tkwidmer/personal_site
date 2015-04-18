@@ -28,7 +28,7 @@ markdown: kramdown
 
 pages_list:
   About: '/'
-  Programming: '/programming.html'
+  Programming: '/pages/programming.html'
   Blog: '/blog.html'
   Feed: '/feed.xml'
 

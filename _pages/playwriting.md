@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Refuge Restrooms
+permalink: '/pages/writing/playwriting.html'
 ---
 ## Refuge Restrooms</h1>
 <img src="">

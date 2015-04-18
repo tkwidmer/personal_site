@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: A Cubicle Of My Own
+permalink: '/blog.html'
 ---
 
 <div class="posts">

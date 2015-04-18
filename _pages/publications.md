@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: '/pages/writing/publications.html'
 ---
 # Online and Print Publications
 

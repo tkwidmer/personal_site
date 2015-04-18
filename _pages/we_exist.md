@@ -1,7 +1,7 @@
 ---
 layout: page
 title: We Exist
-permalink: '/photography/we-exist/'
+permalink: '/photography/we-exist.html'
 ---
 <div class="row">
   <div class="col-sm-12">

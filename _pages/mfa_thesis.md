@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MFA Thesis
+permalink: '/pages/mfa_thesis.html'
 ---
 <h1>MFA Thesis</h1>
 

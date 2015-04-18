@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Refuge Restrooms
+permalink: '/pages/refuge_restrooms.html'
 ---
 ## Refuge Restrooms
 <hr>
+!["RefugeScreenShot"](/images/refuge_screenshot.png)
 
 ### About Refuge
 REFUGE restrooms is a web application that indexes and maps unisex and other safe restrooms for transgender, intersex, and gender nonconforming indivduals. I was the project manager for the development of the application as well as the lead full stack rails engineer. I also contributed to some of the front end css / html work. The application is live on Heroku.
@@ -25,7 +27,7 @@ REFUGE restrooms is a web application that indexes and maps unisex and other saf
 ##### Press
   <ul>
     <li> <a href="http://www.buzzfeed.com/emaoconnor/everyone-need-to-pee-safe#.kddEqD0GQ0"> Buzfeed feature on iOS launch.</a> </li>
-    <li> <a href="http://time.com/3734714/transgender-bathroom-bills-lgbt-discrimination/" Time Magazine on Legislative Battles for Trans People's Bathroom Access </a> </li>
+    <li> <a href="http://time.com/3734714/transgender-bathroom-bills-lgbt-discrimination/"> Time Magazine on Legislative Battles for Trans People's Bathroom Access </a> </li>
     <li> <a href="http://www.pinknews.co.uk/2015/03/09/this-iphone-app-could-help-solve-a-real-problem-for-transgender-people/"> PinkNews.co.uk writes about the refuge iOS lanch. </a> </li>
     <li> <a href="http://feministing.com/2015/03/06/friday-feminist-fuck-yeah-refuge-restrooms-is-available-on-app-store-and-google-play/"> Feministing.com covers the iOS launch </a> </li>
     <li> <a href="http://thenextfamily.com/2015/03/refuge-restrooms-an-app-that-provides-safe-restrooms-for-all/"> The Next Family writes about Refuge Restrooms. </a> </li>
