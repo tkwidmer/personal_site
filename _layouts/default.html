@@ -3,24 +3,31 @@
   {% include head.html %}
 
   <body>
-    <div id="main-layout" class="container-fluid">
+    <div id="main-layout" class="container">
       <div class="row">
-        <div class="col-md-12 visable-xs visable-sm hidden-md hidden-lg">
+        <div class="col-xs-12">
           {% include mobile_header.html %}
         </div>
       </div>
 
       <div class="row">
-        <div id="main-sidebar" class="col-md-4 hidden-xs hidden-sm">
-          {% include sidebar.html %}
-        </div>
-
-        <div id="main-content" class="col-md-8 col-md-offset-4 clearfix">
+        <div id="main-content" class="col-xs-12">
           <div class="page-content">
             {{ content }}
           </div>
         </div>
       </div>
+
+      <footer class="footer">
+  <!--       <ul class="social-links">
+          {% for link in site.social_links %}
+            <li><a href="{{ link.url }}"> <i class="fa fa-2x {{ link.icon }} "></i> </a></li>
+          {% endfor %}
+        </ul> -->
+        <small>
+          no copyright. jekyll. bootstrap. etc
+        </small>
+      </footer>
 
     </div>
   </div>
