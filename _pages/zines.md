@@ -6,12 +6,14 @@ permalink: 'pages/writing/zines.html'
 
 # Zines
 
+Content Warning: Some of my writing contains potentially triggering material regarding abuse, rape, self-harm, depression / mental health, self-medication, violence, bdsm, blood, knives, general sad shit, etc
+
 <div class="more-headroom"> </div>
 
 ### Letters to My Exes That They Will Probably Never Read
 
 <div class="row more-headroom">
-  <div class="col-md-5">
+  <div class="col-md-4">
     <img src="/images/letters_to_exs_1.png">
     <h3 class="headroom"> <a href="https://gumroad.com/l/qJlOc"> LTMETTWPNR: Number One</a> </h3>
     <p>
@@ -23,7 +25,7 @@ permalink: 'pages/writing/zines.html'
     </p>
   </div>
 
-  <div class="col-md-5">
+  <div class="col-md-4">
 
   </div>
 </div>
