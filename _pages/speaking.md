@@ -6,9 +6,11 @@ permalink: '/pages/speaking.html'
 # Speaking
 
 #### Upcoming
-- June 2nd 2015. San Francisco, CA [Patchwork.io Pride](https://ti.to/github-events/patchwork-sf-pride)
+  none
 
 #### Past
+- Presenter. "How to Optimize Your Personal Wealth While Working for a Startup.", [Uncubed. San Francisco.](http://sf.uncubed.com/) 2015.
+- Speaker. "...And So Can You!" [Patchwork.io Pride](https://ti.to/github-events/patchwork-sf-pride). San Francisco, CA. 2015
 - Guest Lecture. “[Trans] Gender 101: Introduction to the Trans Communities. ” Pacific Union College. 2015
 - Speaker. "...And So Can You!" Trans Code SF. Speaker Night. SF LGBT Community Center. 2014.
 - Guest Lecture. “[Trans] Gender 101: Introduction to the Trans Communities. ” Pacific Union College. 2014
