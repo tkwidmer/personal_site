@@ -4,28 +4,30 @@
 
   <body>
     <div id="main-layout" class="container">
-      <div class="row">
-        <div class="col-xs-12">
+      <div class="row headroom">
+        <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2">
           {% include mobile_header.html %}
         </div>
       </div>
 
+
       <div class="row">
-        <div id="main-content" class="col-xs-12">
-          {{ content }}
+        <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2">
+          <div id="main-content">
+            {{ content }}
+          </div>
         </div>
       </div>
 
-      <footer class="footer">
-  <!--       <ul class="social-links">
-          {% for link in site.social_links %}
-            <li><a href="{{ link.url }}"> <i class="fa fa-2x {{ link.icon }} "></i> </a></li>
-          {% endfor %}
-        </ul> -->
-        <small>
-          no copyright. jekyll. bootstrap. etc
-        </small>
-      </footer>
+      <div class="row">
+        <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2">
+          <footer class="footer">
+            <small>
+              no copyright. jekyll. bootstrap. etc
+            </small>
+          </footer>
+        </div>
+      </div>
 
     </div>
   </div>
