@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Refuge Restrooms
-permalink: '/pages/refuge_restrooms.html'
+permalink: '/pages/software/refuge_restrooms.html'
 ---
 ## Refuge Restrooms
 <hr>

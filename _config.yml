@@ -1,4 +1,5 @@
 exclude: ['vendor']
+include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
 
 title:            Teagan Widmer
 email:            tkwidmer@gmail.com
@@ -27,8 +28,8 @@ pages: ./_pages
 markdown: kramdown
 
 pages_list:
-  About: '/'
   Programming: '/pages/programming.html'
+  Speaking:   '/pages/speaking.html'
   Blog: '/blog.html'
   Feed: '/feed.xml'
 

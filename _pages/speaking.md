@@ -3,12 +3,18 @@ layout: page
 title: Speaking
 permalink: '/pages/speaking.html'
 ---
-# Speaking
+<h1 class="text-center"> Speaking </h1>
 
-#### Upcoming
-  none
+<div class="clearfix">
+  <img src="/images/teagan_speaking.jpg" height="225px" style="float:right;"/>
+  <h3> Upcoming Engagements </h3>
+  <p>
+    I currently don't have any upcoming speaking engagements. <br> Send me an email to book me for one! tkwidmer [at] gmail.com
+  </p>
+</div>
 
-#### Past
+### Past
+- Presenter. "Refuge Restrooms." Apps for Change Demo Breakfast. San Francisco, CA. 2015.
 - Presenter. "How to Optimize Your Personal Wealth While Working for a Startup.", [Uncubed. San Francisco.](http://sf.uncubed.com/) 2015.
 - Speaker. "...And So Can You!" [Patchwork.io Pride](https://ti.to/github-events/patchwork-sf-pride). San Francisco, CA. 2015
 - Guest Lecture. “[Trans] Gender 101: Introduction to the Trans Communities. ” Pacific Union College. 2015
