@@ -17,7 +17,7 @@ Content Warning: Some of my writing contains potentially triggering material reg
   <div class="col-xs-12">
     <p>these are short letters to some of my exes. i never sent them. they wont read them ...unless they buy this zine... ...whatever...</p>
   </div>
-  <div class="col-sm-6 col-md-6">
+  <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="/images/letters_to_exs_1.png" alt="...">
       <div class="caption">
