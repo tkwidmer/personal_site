@@ -118,6 +118,7 @@ redirect_from:
       <li>Venus Playground @ Folsom</li>
       <li>Dore Alley Street Faire</li>
       <li>The SF Eagle</li>
+      <li>The Armory </li>
       <li>The SF Citadel</li>
       <li>Alchemy SF</li>
     </ul>
