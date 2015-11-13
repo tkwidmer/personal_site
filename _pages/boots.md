@@ -2,6 +2,9 @@
 layout: page
 title: Boots
 permalink: '/pages/leathercare.html'
+redirect_from:
+  - '/boots.html'
+  - '/leathercare.html'
 ---
 
 
@@ -12,7 +15,9 @@ permalink: '/pages/leathercare.html'
   <div class='col-sm-6'>
     <p> I'm a bootblack based out of Oakland, CA. I was trained by Scout (IMBB 2014) in early 2015. </p>
 
-    <p> I take dropoffs, but prefer to work with you 'in person' on your leather. I firmly believe that my role is about more than tending to just your leather goods. My ultimate goal is to make both you and your leather feel and look better when you leave my chair than when you sat down in it. I'm often found at bars and events arround the bay area. You can find my upcoming schedule below. I also have a personal chair in my backyard and can sevice your leather goods at my place. Please send me an email at tkwidmer [at] gmail.com to schedule a private blacking session. </p>
+    <p> I do take dropoff comissions, but really prefer to work with you 'in person' on your leather. I firmly believe that my role is about more than tending to just your leather goods. My ultimate goal is to make both you and your leather feel and look better when you leave my chair than when you sat down in it. Besides, the experiance is far less enjoyable for both you and myself. </p>
+
+    <p>I can often often found at bars and events arround the bay area. You can find my upcoming schedule below. I also have a personal chair in my backyard and can sevice your leather goods at my place. Please send me an email at tkwidmer [at] gmail.com to schedule a private blacking session. </p>
   </div>
 
   <div class="col-sm-6">
@@ -96,4 +101,9 @@ Venues that I've blacked at are as follows:
   * Alchemy SF
 
 ## Schedule
-<iframe src="https://calendar.google.com/calendar/embed?src=qfped4ivt9vajbhdp4b59lkj8g%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<div class="row fspace1">
+  <div class="col-xs-12">
+    <iframe src="https://calendar.google.com/calendar/embed?src=qfped4ivt9vajbhdp4b59lkj8g%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>

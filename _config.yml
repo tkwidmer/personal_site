@@ -38,3 +38,6 @@ social_links:
     url: http://www.twitter.com/twidx
   - icon: fa-github
     url: http://www.github.com/tkwidmer
+
+gems:
+  - jekyll-redirect-from
