@@ -3,7 +3,7 @@ layout: page
 title: Speaking
 permalink: '/pages/speaking.html'
 ---
-<h1 class="text-center"> Speaking </h1>
+<h1> Speaking </h1>
 
 <div class="clearfix">
   <img src="/images/teagan_speaking.jpg" height="225px" style="float:right;"/>
