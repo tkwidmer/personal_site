@@ -27,7 +27,7 @@ redirect_from:
 
 <div class="clearfix"> </div>
 
-<div class="row">
+<div class="row vspace2">
   <div class="col-xs-12">
     <h2> Services Offered </h2>
   </div>
@@ -73,10 +73,11 @@ redirect_from:
   </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-6">
+<div class="row vspace2">
+  <div class="col-sm-12">
     <h2> Products </h2>
-
+  </div>
+  <div class="col-sm-6">
     <p>
       I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots (<a href="http://angelusdirect.com/collections/shoe-polish/products/angelus-black-shoe-wax">Polish</a>, <a href="http://angelusdirect.com/collections/conditioners/products/lustre-cream-3-oz"> Lustre Cream </a>). On garments and oil tans, I'm much more flexible but primarily use [Huberd's Shoe Grease](http://www.huberds.com/shoe-grease.html) and [Obenhauf's Leather Preservative](http://www.obenaufs.com/Heavy-Duty-LP-8-oz-p/heavy-duty-lp-8.htm). I also use Mr S Leather's Dubbin and [Meltonian Creme Polish](http://www.cedarshoetree.com/meltonian-cream-1oz-p-28.html) in certian situations. There are a few other products I use less often.
     </p>
@@ -99,7 +100,7 @@ redirect_from:
 
 </div>
 
-<div class="row">
+<div class="row vspace2">
   <div class="col-sm-6">
     <h2> Booking </h2>
 
@@ -125,10 +126,14 @@ redirect_from:
   </div>
 </div>
 
-## Schedule
+<div class="row vspace2">
+  <div class="col-sm-12">
+    <h2> Schedule </h2>
 
-<div class="row fspace1">
-  <div class="col-xs-12">
-    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=qfped4ivt9vajbhdp4b59lkj8g%40group.calendar.google.com&amp;color=%236B3304&amp;ctz=America%2FLos_Angeles" style="border-width:0; overflow: hidden;" width="100%" height="400" scrolling="no" frameborder="0"></iframe>
+    <div class="row fspace1">
+      <div class="col-xs-12">
+        <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=qfped4ivt9vajbhdp4b59lkj8g%40group.calendar.google.com&amp;color=%236B3304&amp;ctz=America%2FLos_Angeles" style="border-width:0; overflow: hidden;" width="100%" height="400" scrolling="no" frameborder="0"></iframe>
+      </div>
+    </div>
   </div>
 </div>
