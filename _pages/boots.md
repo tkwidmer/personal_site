@@ -73,37 +73,61 @@ redirect_from:
   </div>
 </div>
 
-## Products
+<div class="row">
+  <div class="col-sm-6">
+    <h2> Products </h2>
 
-I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots ([Polish](http://angelusdirect.com/collections/shoe-polish/products/angelus-black-shoe-wax), [Lustre Cream](http://angelusdirect.com/collections/conditioners/products/lustre-cream-3-oz)). On garments and oil tans, I'm much more flexible but primarily use [Huberd's Shoe Grease](http://www.huberds.com/shoe-grease.html) and [Obenhauf's Leather Preservative](http://www.obenaufs.com/Heavy-Duty-LP-8-oz-p/heavy-duty-lp-8.htm). I also use Mr S Leather's Dubbin and [Meltonian Creme Polish](http://www.cedarshoetree.com/meltonian-cream-1oz-p-28.html) in certian situations. There are a few other products I use less often.
+    <p>
+      I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots (<a href="http://angelusdirect.com/collections/shoe-polish/products/angelus-black-shoe-wax">Polish</a>, <a href="http://angelusdirect.com/collections/conditioners/products/lustre-cream-3-oz"> Lustre Cream </a>). On garments and oil tans, I'm much more flexible but primarily use [Huberd's Shoe Grease](http://www.huberds.com/shoe-grease.html) and [Obenhauf's Leather Preservative](http://www.obenaufs.com/Heavy-Duty-LP-8-oz-p/heavy-duty-lp-8.htm). I also use Mr S Leather's Dubbin and [Meltonian Creme Polish](http://www.cedarshoetree.com/meltonian-cream-1oz-p-28.html) in certian situations. There are a few other products I use less often.
+    </p>
 
-## Compensation
+    <h2> Compensation </h2>
 
-I do not charge for my services, but I will greatfully accept tips for a job well done. These tips help me replace my products as well as improve my home stand and provide transportation to and from bootblacking gigs.
+    <p>
+      I do not charge for my services, but I will greatfully accept tips for a job well done. These tips help me replace my products as well as improve my home stand and provide transportation to and from bootblacking gigs.
+    </p>
 
-When blacking at a bar my usual tips are usually between 10-25$ a garmet / pair of boots depending on the amount of work and product used. I only have one guideline: give what you are able.
+    <p>
+      When blacking at a bar my usual tips are usually between 10-25$ a garmet / pair of boots depending on the amount of work and product used. I only have one guideline: give what you are able.
+    </p>
 
-## Booking
+  </div>
 
-I'm available to bootblack around the bay area and around the country at conferences, bars, parties, and other events. I own my own portable stand and a shoeshine box, but am happy to work on any equipment you already have set up.
+  <div class="col-sm-6 pull-right">
+    <img src="https://41.media.tumblr.com/59662ba7cb69cec53855ddb03927de95/tumblr_nvfef6BoPw1qz7dx8o1_1280.jpg" class="img-responsive fspace1">
+  </div>
 
-If you are looking for a bootblack for your event, please send me a message. If my schedule allows it, I'd love to black your event. You can also email me at tkwidmer [at] gmail [dot] com. I black at events for free, and accept tips from customers.
+</div>
 
-### Previous Venues
+<div class="row">
+  <div class="col-sm-6">
+    <h2> Booking </h2>
 
-Venues that I've blacked at are as follows:
+    <p>
+      I'm available to bootblack around the bay area and around the country at conferences, bars, parties, and other events. I own my own portable stand and a shoeshine box, but am happy to work on any equipment you already have set up.
+    </p>
 
-  * Folsom Street Faire
-  * Venus Playground @ Folsom
-  * Dore Alley Street Faire
-  * The SF Eagle
-  * The SF Citadel
-  * Alchemy SF
+    <p>
+      If you are looking for a bootblack for your event, please send me a message. If my schedule allows it, I'd love to black your event. You can also email me at tkwidmer [at] gmail [dot] com. I black at events for free, and accept tips from customers.
+    </p>
+  </div>
+  <div class="col-sm-6">
+    <h2>Previous Venues </h2>
+    <ul>
+      <li>Folsom Street Faire</li>
+      <li>Venus Playground @ Folsom</li>
+      <li>Dore Alley Street Faire</li>
+      <li>The SF Eagle</li>
+      <li>The SF Citadel</li>
+      <li>Alchemy SF</li>
+    </ul>
+  </div>
+</div>
 
 ## Schedule
 
 <div class="row fspace1">
   <div class="col-xs-12">
-    <iframe src="https://calendar.google.com/calendar/embed?src=qfped4ivt9vajbhdp4b59lkj8g%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=qfped4ivt9vajbhdp4b59lkj8g%40group.calendar.google.com&amp;color=%236B3304&amp;ctz=America%2FLos_Angeles" style="border-width:0; overflow: hidden;" width="100%" height="400" scrolling="no" frameborder="0"></iframe>
   </div>
 </div>
