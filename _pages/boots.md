@@ -37,7 +37,7 @@ redirect_from:
     <ul>
       <li>Cleaning</li>
       <li>High shine polish</li>
-      <li>Oil Tanned Condition</li>
+      <li>Conditioning and Water Proofing</li>
       <li>Cosmetic Improvments
         <ul>
           <li>Dying</li>
@@ -54,7 +54,7 @@ redirect_from:
 
     <ul>
       <li>“High Shine” Boots</li>
-      <li>Oil tanned boots</li>
+      <li>"Oil Tanned" boots</li>
       <li>Leather Garments
         <ul>
           <li>vests</li>
@@ -75,13 +75,13 @@ redirect_from:
 
 ## Products
 
-I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots (Polish, Lustre Creme). On garments and oil tans, I'm much more flexible but primarily use Huberd's Shoe Grease and Obenhauf's Leather Preservative. I also use Mr S Leather's Dubbin and Meltonian Creme Polish in certian situations. There are a few other products I use less often.
+I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots ([Polish](http://angelusdirect.com/collections/shoe-polish/products/angelus-black-shoe-wax), [Lustre Cream](http://angelusdirect.com/collections/conditioners/products/lustre-cream-3-oz)). On garments and oil tans, I'm much more flexible but primarily use [Huberd's Shoe Grease](http://www.huberds.com/shoe-grease.html) and [Obenhauf's Leather Preservative](http://www.obenaufs.com/Heavy-Duty-LP-8-oz-p/heavy-duty-lp-8.htm). I also use Mr S Leather's Dubbin and [Meltonian Creme Polish](http://www.cedarshoetree.com/meltonian-cream-1oz-p-28.html) in certian situations. There are a few other products I use less often.
 
 ## Compensation
 
 I do not charge for my services, but I will greatfully accept tips for a job well done. These tips help me replace my products as well as improve my home stand and provide transportation to and from bootblacking gigs.
 
-When working at a bar my usual tips are between 15-25$ a garmet / pair of boots. Give what you are able.
+When blacking at a bar my usual tips are usually between 10-25$ a garmet / pair of boots depending on the amount of work and product used. I only have one guideline: give what you are able.
 
 ## Booking
 
