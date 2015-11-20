@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boots
+title: Bootblack & Premium Leather Care
 permalink: '/pages/leathercare.html'
 redirect_from:
   - '/boots.html'
@@ -11,17 +11,20 @@ redirect_from:
 <div class="row">
   <div class="col-xs-12">
     <h1> Premium Leather Care </h1>
+    <h5> <a href="#schedule"> See My Upcoming Schedule! </a> </h5>
+    <h5> <a href="#booking"> Book My Services! </a> </h5>
   </div>
   <div class='col-sm-6'>
     <p> I'm a bootblack based out of Oakland, CA. I was trained by Scout (IMBB 2014) in early 2015. </p>
 
     <p> I do take dropoff comissions, but really prefer to work with you 'in person' on your leather. I firmly believe that my role is about more than tending to just your leather goods. My ultimate goal is to make both you and your leather feel and look better when you leave my chair than when you sat down in it. Besides, the experiance is far less enjoyable for both you and myself. </p>
 
-    <p>I can often often found at bars and events arround the bay area. You can find my upcoming schedule below. I also have a personal chair in my backyard and can sevice your leather goods at my place. Please send me an email at tkwidmer [at] gmail.com to schedule a private blacking session. </p>
+    <p>I can often often found at bars and events arround the bay area. You can find my <a href="#schedule">  upcoming schedule </a> below. I also have a personal chair in my backyard and can sevice your leather goods at my place. Please send me an email at tkwidmer [at] gmail.com to schedule a private blacking session. </p>
   </div>
 
   <div class="col-sm-6">
     <img src="https://40.media.tumblr.com/769ebe3b7532b3b2bb2a991b7c90c03d/tumblr_nxftryODPr1qz7dx8o1_1280.jpg" class="img-responsive">
+    <small> photo by courtney trouble </small>
   </div>
 </div>
 
@@ -79,7 +82,7 @@ redirect_from:
   </div>
   <div class="col-sm-6">
     <p>
-      I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots (<a href="http://angelusdirect.com/collections/shoe-polish/products/angelus-black-shoe-wax">Polish</a>, <a href="http://angelusdirect.com/collections/conditioners/products/lustre-cream-3-oz"> Lustre Cream </a>). On garments and oil tans, I'm much more flexible but primarily use [Huberd's Shoe Grease](http://www.huberds.com/shoe-grease.html) and [Obenhauf's Leather Preservative](http://www.obenaufs.com/Heavy-Duty-LP-8-oz-p/heavy-duty-lp-8.htm). I also use Mr S Leather's Dubbin and [Meltonian Creme Polish](http://www.cedarshoetree.com/meltonian-cream-1oz-p-28.html) in certian situations. There are a few other products I use less often.
+      I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots (<a href="http://angelusdirect.com/collections/shoe-polish/products/angelus-black-shoe-wax">Polish</a>, <a href="http://angelusdirect.com/collections/conditioners/products/lustre-cream-3-oz">Lustre Cream</a>). On garments and oil tans, I'm much more flexible but primarily use <a href="http://www.huberds.com/shoe-grease.html">Huberd's Shoe Grease</a> and <a href="http://www.obenaufs.com/Heavy-Duty-LP-8-oz-p/heavy-duty-lp-8.htm"> Obenhauf's Leather Preservative </a>. I also use Mr S Leather's Dubbin and <a href="http://www.cedarshoetree.com/meltonian-cream-1oz-p-28.html"> Meltonian Creme Polish </a> in certian situations. There are a few other products I use less often.
     </p>
 
     <h2> Compensation </h2>
@@ -96,20 +99,21 @@ redirect_from:
 
   <div class="col-sm-6 pull-right">
     <img src="https://41.media.tumblr.com/59662ba7cb69cec53855ddb03927de95/tumblr_nvfef6BoPw1qz7dx8o1_1280.jpg" class="img-responsive fspace1">
+    <small> photo by irish </small>
   </div>
 
 </div>
 
 <div class="row vspace2">
   <div class="col-sm-6">
-    <h2> Booking </h2>
+    <h2 id="booking"> Booking </h2>
 
     <p>
       I'm available to bootblack around the bay area and around the country at conferences, bars, parties, and other events. I own my own portable stand and a shoeshine box, but am happy to work on any equipment you already have set up.
     </p>
 
     <p>
-      If you are looking for a bootblack for your event, please send me a message. If my schedule allows it, I'd love to black your event. You can also email me at tkwidmer [at] gmail [dot] com. I black at events for free, and accept tips from customers.
+      If you are looking for a bootblack for your event, please send me a message. If my schedule allows it, I'd love to black your event. You can also email me at tkwidmer [at] gmail [dot] com. I black at events for free, and usually accept tips from customers (although this can be negotiated).
     </p>
   </div>
   <div class="col-sm-6">
@@ -128,7 +132,7 @@ redirect_from:
 
 <div class="row vspace2">
   <div class="col-sm-12">
-    <h2> Schedule </h2>
+    <h2 id="schedule"> Schedule </h2>
 
     <div class="row fspace1">
       <div class="col-xs-12">
