@@ -23,8 +23,7 @@ redirect_from:
   </div>
 
   <div class="col-sm-6">
-    <img src="https://40.media.tumblr.com/769ebe3b7532b3b2bb2a991b7c90c03d/tumblr_nxftryODPr1qz7dx8o1_1280.jpg" class="img-responsive">
-    <small> photo by courtney trouble </small>
+    <img src="http://36.media.tumblr.com/1ccaa8d75af6ca6be7033270e41e9caa/tumblr_nyqqodv7K91qz7dx8o1_1280.jpg" class="img-responsive">
   </div>
 </div>
 
