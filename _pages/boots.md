@@ -91,7 +91,10 @@ redirect_from:
     </p>
 
     <p>
-      When blacking at a bar my usual tips are usually between 10-30$ a pair of boots/shoes/garmet depending on the amount of work and product used. More for larger pieces of leather / complicated detail work / complex restoration and repair. I'm also open to other types of exchange. I only have one guideline: give what you are able.
+      When blacking at a bar my usual tips are usually between 10-30$ a pair of boots/shoes/garmet depending on the amount of work and product used. More for larger pieces of leather / complicated detail work / complex restoration and repair.
+    </p>
+    <p>
+      I'm also open to other types of exchange. I only have one guideline: give what you are able.
     </p>
 
   </div>
