@@ -7,14 +7,21 @@ redirect_from:
   - '/leathercare.html'
 ---
 
+<h1> Premium Leather Care </h1>
 
 <div class="row">
-  <div class="col-xs-12">
-    <h1> Premium Leather Care </h1>
-    <h5> <a href="#schedule"> See My Upcoming Schedule! </a> </h5>
-    <h5> <a href="#booking"> Book My Services! </a> </h5>
+  <div class="col-sm-6">
+    <h4> <a href="#schedule"> See My Upcoming Schedule! </a> </h4>
+    <h4> <a href="#booking"> Book My Services! </a> </h4>
   </div>
+
+  <div class="col-sm-6">
+    <h4> Mailing List</h4>
+    {% include boot_mailing_list.html %}
+  </div>
+
   <div class='col-sm-6'>
+    <h2> Summary </h2>
     <p> I'm a bootblack based out of Oakland, CA. I was trained by Scout (IMBB 2014) in early 2015. </p>
 
     <p> I do take dropoff comissions, but really prefer to work with you 'in person' on your leather. I firmly believe that my role is about more than tending to just your leather goods. My ultimate goal is to make both you and your leather feel and look better when you leave my chair than when you sat down in it. Besides, the experiance is far less enjoyable for both you and myself. </p>
@@ -115,7 +122,10 @@ redirect_from:
     </p>
 
     <p>
-      If you are looking for a bootblack for your event, please send me a message. If my schedule allows it, I'd love to black your event. You can also email me at tkwidmer [at] gmail [dot] com. I black at events for free, and usually accept tips from customers (although this can be negotiated).
+      If you are looking for a bootblack for your event, please send me a message. If my schedule allows it, I'd love to black your event. I black at events for free, and usually accept tips from customers (although this can be negotiated).
+    </p>
+    <p>
+      You can email me at tkwidmer [at] gmail [dot] com.
     </p>
   </div>
   <div class="col-sm-6">
@@ -129,6 +139,13 @@ redirect_from:
       <li>The SF Citadel</li>
       <li>Alchemy SF</li>
     </ul>
+  </div>
+</div>
+
+<div class="row vspace2">
+  <div class="col-sm-12">
+    <h2> Mailing List Signup </h2>
+    {% include boot_mailing_list.html %}
   </div>
 </div>
 
