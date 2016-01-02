@@ -23,5 +23,7 @@ permalink: '/pages/mailing-list.html'
     </ul>
 
     {% include boot_mailing_list.html %}
+
+    <a class="vspace2" href="/pages/leathercare.html"> back to leathercare info </a>
   </div>
 </div>
