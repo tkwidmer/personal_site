@@ -5,8 +5,14 @@
   images:
     - title: "Isabelle"
       path: "https://farm8.staticflickr.com/7602/16638491249_08850b6356_z.jpg"
+    - title: "Kelly"
+      path: "/images/photography/portrait/kelly.jpg"
+    - title: "Sarah"
+      path: "/images/photography/portrait/sarah2.jpg"
     - title: "Diana"
       path: "/images/photography/portrait/diana.jpg"
+    - title: "Diana"
+      path: "/images/photography/portrait/diana2.jpg"
 
 - id: events
   display_name: "Events"
@@ -15,23 +21,33 @@
     - title: "Mr SF Leather Beer Bust"
       path: "/images/photography/events/4.jpg"
     - title: "Mr SF Leather Beer Bust"
+      path: "/images/photography/events/11.jpg"
+    - title: "Mr SF Leather Beer Bust"
       path: "/images/photography/events/12.jpg"
     - title: "IMsL 2015"
       path: "/images/photography/events/day1_16.jpeg"
     - title: "IMsL 2015"
       path: "/images/photography/events/day2_15.jpg"
+    - title: "Folsom Street Fair 2014"
+      path: "/images/photography/events/folsom-2014.jpg"
     - title: "Broadway Calls Show"
       path: "/images/photography/events/concert.jpg"
 
     # - title: "Little Sister"
     #   path: "/images/photography/events/concert2.jpg"
 
-# - id: landscape
-#   display_name: "Landscape"
-#   image_folder: '/images/photography/events'
-#   images:
-#     - title: "Mid Market At Dusk"
-#       path: "/images/photography/landscape/mid-market.jpg"
+- id: landscape
+  display_name: "Landscape"
+  image_folder: '/images/photography/events'
+  images:
+    - title: "Mid Market At Dusk"
+      path: "/images/photography/landscape/mid-market.jpg"
+    - title: "Golden Gate Bridge"
+      path: "/images/photography/landscape/golden_gate.jpg"
+    - title: "Il Duomo di Firenze. Florence, Italy"
+      path: "/images/photography/landscape/illdluomo.jpg"
+    - title: "Vatican City."
+      path: "/images/photography/landscape/stormyvatican.jpg"
 
 # - id: boudoir
 #   display_name: "Boudoir"
