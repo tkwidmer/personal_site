@@ -4,12 +4,18 @@
 #   location:
 #   date:
 
-current:
+upcoming:
+  -
 
 past:
+  - title: "Women in STEM Fields"
+    role: "Panelist"
+    location: "Sac State. Sacremento, CA"
+    date: "March, 2015."
+
   - title: "Refuge Restroom"
     role: "Presenter"
-    location: "San Francisco, CA"
+    location: "Apps For Change Demo. San Francisco, CA"
     date: "2015"
 
   - title: "How to Optimize Your Personal Wealth While Working for a Startup."
