@@ -9,7 +9,7 @@ permalink: '/pages/speaking.html'
   <img src="/images/teagan_speaking.jpg" height="225px" style="float:right;"/>
   <h3> Upcoming Engagements </h3>
   <p>
-    Panelist. NTEN Conference. Session: <a href="http://www.nten.org/session/getting-your-clients-the-help-they-need-three-models-for-resource-and-referral-apps/"> "Getting your Clients the Help They Need."</a>
+    March 25th, 2016. Panelist. NTEN Conference. Session: <a href="http://www.nten.org/session/getting-your-clients-the-help-they-need-three-models-for-resource-and-referral-apps/"> "Getting your Clients the Help They Need."</a>
   </p>
 </div>
 
