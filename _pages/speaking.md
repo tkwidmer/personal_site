@@ -9,11 +9,12 @@ permalink: '/pages/speaking.html'
   <img src="/images/teagan_speaking.jpg" height="225px" style="float:right;"/>
   <h3> Upcoming Engagements </h3>
   <p>
-    I currently don't have any upcoming speaking engagements. <br> Send me an email to book me for one! tkwidmer [at] gmail.com
+    Panelist. NTEN Conference. Session: <a href="http://www.nten.org/session/getting-your-clients-the-help-they-need-three-models-for-resource-and-referral-apps/"> "Getting your Clients the Help They Need."</a>
   </p>
 </div>
 
 ### Past
+- Panelist. "Women in STEM Fields." Sac State. Sacremento, CA. March, 2015.
 - Presenter. "Refuge Restrooms." Apps for Change Demo Breakfast. San Francisco, CA. 2015.
 - Presenter. "How to Optimize Your Personal Wealth While Working for a Startup.", [Uncubed. San Francisco.](http://sf.uncubed.com/) 2015.
 - Speaker. "...And So Can You!" [Patchwork.io Pride](https://ti.to/github-events/patchwork-sf-pride). San Francisco, CA. 2015
