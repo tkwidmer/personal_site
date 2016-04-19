@@ -15,12 +15,14 @@ She endevors to write code that is clean, understandable, elegant, and innovativ
 work as a software engineer she is also an academic, activist, writer, educator, and visual artist.
 She holds an MFA in Theatre Pedagogy from Virginia Commonwealth University and a BA in english
 literature from Pacific Union College. She's lectured and presenterd her work at schools, conferences,
-and events all over the United States. A resident of Oakland, California -- She likes to imagine that
+and events all over the United States. She currently works as a software engineer at FutureAdvisor and
+is the founder of RefugeRestrooms. A resident of Oakland, California -- She likes to imagine that
 in the future she will sit down reading a good book next to a roaring fire in a den with lots of bookshelves.
 
 ### Short Bio
 
-Teagan is a self taught developer from Oakland, California. In addition to her work as a software
+Teagan is a self taught developer from Oakland, California. She currently works as a software engineer
+at FutureAdvisor and is the founder of RefugeRestrooms. In addition to her work as an
 engineer, she has also worked as an academic, activist, writer, educator, and visual artist. She has
 lectured and presented her work all over the United States.
 
