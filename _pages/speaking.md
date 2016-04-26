@@ -5,31 +5,53 @@ permalink: '/pages/speaking.html'
 ---
 <h1> Speaking </h1>
 
-<div class="clearfix">
-  <img src="/images/teagan_speaking.jpg" height="225px" style="float:right;"/>
-  <h3> Upcoming Engagements </h3>
-  <p>
-    March 25th, 2016. Panelist. NTEN Conference. Session: <a href="http://www.nten.org/session/getting-your-clients-the-help-they-need-three-models-for-resource-and-referral-apps/"> "Getting your Clients the Help They Need."</a>
-  </p>
-</div>
+<div class="row">
+  <div class="col-sm-8">
+    <h3> Past Engagements </h3>
 
-### Past
-- Panelist. "Women in STEM Fields." Sac State. Sacremento, CA. March, 2015.
-- Presenter. "Refuge Restrooms." Apps for Change Demo Breakfast. San Francisco, CA. 2015.
-- Presenter. "How to Optimize Your Personal Wealth While Working for a Startup.", [Uncubed. San Francisco.](http://sf.uncubed.com/) 2015.
-- Speaker. "...And So Can You!" [Patchwork.io Pride](https://ti.to/github-events/patchwork-sf-pride). San Francisco, CA. 2015
-- Guest Lecture. “[Trans] Gender 101: Introduction to the Trans Communities. ” Pacific Union College. 2015
-- Speaker. "...And So Can You!" Trans Code SF. Speaker Night. SF LGBT Community Center. 2014.
-- Guest Lecture. “[Trans] Gender 101: Introduction to the Trans Communities. ” Pacific Union College. 2014
-- Guest Lecture. “[Trans] Gender 101: Introduction to the Trans Communities. ” Pacific Union College. 2013
-- Presenter. “[Trans] Gender 102: How to Be a Better Ally.” SDA Kinship Kampmeeting. 2012
-- Presenter. “[Trans] Gender 101: Introduction to the Trans Communities.” SDA Kinship Kampmeeting. 2012
-- Workshop Leader. “Consent in Transgender and Non-Binary Relationships.” VCU’s Queer Action. 2012
-- Guest Lecture. “[Trans] Gender 101: Introduction to the Trans Communities. ” Pacific Union College. 2012
-- Guest Lecture. “The Transgender Voice.” Virginia Commonwealth University. 2011
-- Presenter. “Gender 101.” Virginia Commonwealth University. 2011
-- Presenter. “Depictions of Transgender Women in Contemporary Film.” Virginia.Commonwealth University. 2011
-- Presenter. “MLA Style for Theatre Students.” Virginia Commonwealth University. 2010
-- Presenter. “Introduction to Documentary Theater.” Virginia Commonwealth University. 2010
-- Guest Lecture. “The Elizabethan Stage.” Virginia Commonwealth University. 2010
-- Workshop Host. “College Days: Theater Workshop.” Pacific Union College. 2006-2010. Nine Times.
+    <div class="panel-group" id="accordian" role="tablist" aria-multiselectable="true">
+      {% for date in site.data.speaking.past %}
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="heading{{ date[0] }}">
+          <div class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ date[0] }}" aria-expanded="true" aria-controls="collapse{{ date[0] }}">
+              {{ date[0] }}
+            </a>
+          </div>
+        </div>
+        {% if forloop.first == true %}
+          {% assign panelClass = 'in'%}
+        {% else %}
+          {% assign panelClass = '' %}
+        {% endif %}
+        <div id="collapse{{ date[0] }}" class="panel-collapse collapse {{panelClass}}" role="tabpanel" aria-labelledby="heading{{ date[0] }}">
+          <div class="panel-body">
+          <ul>
+            {% for speaking in date[1] %}
+              <li>
+                <b>{{speaking.role}}.
+                {% if speaking.link %}
+                  <a href="{{speaking.link}}"> "{{speaking.title}}."</a>
+                {% else %}
+                  "{{speaking.title}}."
+                {% endif %}
+                </b>
+                <br>
+                {{speaking.location}}.
+                {{speaking.date}}
+                <br>
+              </li>
+            {% endfor %}
+          </ul>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+
+  </div>
+  <div class="col-sm-4">
+    <img src="/images/teagan_speaking.jpg"/>
+  </div>
+</div>
