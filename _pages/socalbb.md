@@ -51,7 +51,7 @@ permalink: '/socalbb2016.html'
       <div class="col-sm-6">
         <h4> Classes </h4>
         <p>
-          <a href="/classes/feeding_your_soul.html"> Feeding Your Sole: Basic Leather Care for Your Average Leather Person </a>
+          <a href="/classes/feeding_your_soul.html"> Feeding Your Sole: Basic Leather Care for Your Average Leather Person </a> for the <a href="http://theexiles.org/">SF Exiles</a> on May 20th, 2016.
         </p>
       </div>
     </div>
