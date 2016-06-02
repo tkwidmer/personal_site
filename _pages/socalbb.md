@@ -52,16 +52,9 @@ redirect_from:
     <div class="row">
       <div class="col-xs-12">
         <h4> Photos From My Title Year </h4>
-        <div id="instafeed"> </div>
-        <script type="text/javascript">
-          var feed = new Instafeed({
-            get: 'tagged',
-            tagName: 'socalbb2016',
-            accessToken: '18244585.467ede5.343fc571f1eb45ffb7b4265a881b2a31',
-            sortBy: 'most-recent',
-          });
-          feed.run()
-        </script>
+        <p> below are some recent photos from my title year, visit <a href="https://www.instagram.com/explore/tags/socalbb2016/"> here </a> for a the full photo gallery!
+        <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/dfa85b5659275345870b31616bd9d8bf.html" id="lightwidget_dfa85b5659" name="lightwidget_dfa85b5659"  scrolling="true" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
       </div>
     </div>
   </div>
