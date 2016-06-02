@@ -3,6 +3,7 @@ layout: page
 title: SoCal Bootblack 2016
 permalink: '/socalbb2016/'
 redirect_from:
+  - '/leather/socalbb2016/'
   - '/leather/'
 ---
 
@@ -18,20 +19,14 @@ redirect_from:
     <h1> SoCal BootBlack 2016</h1>
     <p>
       In April of 2016 I was appointed SoCal Bootblack 2016. I'm looking forward to representing
-      bootblacks this year in California and beyond. Since the title is transitioning to become
-      California State Bootblack next year, I will not only be focused on Southern California
-      but on the entire state of California as I hope to build a good class of contestants next year
-      for the first California State Bootblack Contest.
+      bootblacks this year in Southern California and beyond. Although my home is Oakland, CA,
+      you can find me bootblacking and teaching all over the state in the upcoming year.
+      I most often am found on the patio working the stand at the SF Eagle on 12th street in
+      San Francisco, CA.
     </p>
 
     <p>
-      Although my home is Oakland, CA, you can find me bootblacking and teaching all over the state
-      in the upcoming year. I most often am found on the patio working the stand at the SF Eagle on
-      12th street in San Francisco, CA.
-    </p>
-
-    <p>
-      A big thank you to Leather HEAT and my producers Master George and slave bren for believing
+      A big thank you to Leather HEAT and it's producers Master George and slave bren for believing
       in me and supporting me in this title.
     </p>
 
@@ -43,9 +38,11 @@ redirect_from:
       </div>
       <div class="col-sm-6">
         <h4> Classes </h4>
-        <p>
-          <a href="/classes/feeding_your_soul.html"> Feeding Your Sole: Basic Leather Care for Your Average Leather Person </a> for the <a href="http://theexiles.org/">SF Exiles</a> on May 20th, 2016.
-        </p>
+        <ul>
+          <li>
+            <a href="/classes/feeding_your_soul.html"> Feeding Your Sole: Basic Leather Care for Your Average Leather Person </a> for the <a href="http://theexiles.org/">SF Exiles</a> on May 20th, 2016.
+          </li>
+        </ul>
       </div>
     </div>
 
