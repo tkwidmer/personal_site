@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: leather_page
 title: SoCal Bootblack 2016
-permalink: '/socalbb2016/'
-redirect_from:
-  - '/leather/socalbb2016/'
+permalink: '/leather/socalbb2016/'
+hide_splash: true
 ---
 
 <div class="row">
@@ -39,7 +38,7 @@ redirect_from:
         <h4> Classes </h4>
         <ul>
           <li>
-            <a href="/classes/feeding_your_soul.html"> Feeding Your Sole: Basic Leather Care for Your Average Leather Person </a> for the <a href="http://theexiles.org/">SF Exiles</a> on May 20th, 2016.
+            <a href="/classes/feeding_your_soul/"> Feeding Your Sole: Basic Leather Care for Your Average Leather Person </a> for the <a href="http://theexiles.org/">SF Exiles</a> on May 20th, 2016.
           </li>
         </ul>
       </div>

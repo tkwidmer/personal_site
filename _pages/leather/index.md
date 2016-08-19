@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: leather_page
 title: Teagan The Bootblack
 permalink: '/leather/'
 excerpt: "Teagan is a Bootblack based out of Oakland, CA. She shined her first pair of shoes under her father’s watchful eye as a child before church. However, it has only been more recently that she has honed her craft and incorporated her technical skills into her leather practice."
 ---
-
-<img src="/images/bootblack/bb_header.jpg">
 
 <div class="row">
   <div class="col-md-6">

@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: leather_page
 title: "Feeding Your Sole: Basic LeatherCare for the Average LeatherPerson"
-permalink: '/classes/feeding_your_soul.html'
+permalink: '/classes/feeding_your_soul/'
 ---
 
 ## Feeding Your Sole: Basic Leathercare for the Average Leatherperson.
