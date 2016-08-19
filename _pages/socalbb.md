@@ -4,7 +4,6 @@ title: SoCal Bootblack 2016
 permalink: '/socalbb2016/'
 redirect_from:
   - '/leather/socalbb2016/'
-  - '/leather/'
 ---
 
 <div class="row">
