@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: '/leather/'
-description: "Teagan is a Bootblack based out of Oakland, CA. She shined her first pair of shoes under her father’s watchful eye as a child before church. However, it has only been more recently that she has honed her craft and incorporated her technical skills into her leather practice."
+excerpt: "Teagan is a Bootblack based out of Oakland, CA. She shined her first pair of shoes under her father’s watchful eye as a child before church. However, it has only been more recently that she has honed her craft and incorporated her technical skills into her leather practice."
 ---
 
 <img src="/images/bootblack/bb_header.jpg">
@@ -21,7 +21,7 @@ description: "Teagan is a Bootblack based out of Oakland, CA. She shined her fir
 
     <h3> Services </h3>
     <p>
-    In general the services I offer can be described as maintenance, care, and cosmetic improvement. If it's leather there's a good chance I can do <b>something</b> with it.
+    I specialize in the care of both high shine and oil tanned boots as well as leather garments. In general the services I offer can be described as maintenance, care, and cosmetic improvement. If it's leather there's a good chance I can do <b>something</b> with it.
     </p>
 
     <h3> Booking </h3>
