@@ -16,12 +16,12 @@ Content Warning: Some of my writing contains potentially triggering material reg
   <div class="col-xs-12">
     <div class="thumbnail">
       <div class="row">
-        <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4">
-          <img class="img-responsive" src="/images/letters_to_exs_1_thumb.png" alt="...">
+        <div class="col-xs-6 col-xs-offset-3 col-sm-offset-0 col-sm-4">
+          <img class="img-responsive" src="/images/letters_to_exs_1.png" alt="...">
         </div>
-        <div class="col-sm-8">
+        <div class="col-xs-12 col-sm-offset-0 col-sm-8">
           <div class="caption">
-            <h3>Letters to My Exes That They Will Probably Never Read </div>
+            <h3>Letters to My Exes That They Will Probably Never Read </h3>
             <h4>Issue One</h4>
             <p>these are short letters to some of my exes. i never sent them. they wont read them ...unless they buy this zine... ...whatever...</p>
             <p>content warning: rape, emotional abuse, blood, stalking</p>
