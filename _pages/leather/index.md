@@ -8,9 +8,8 @@ excerpt: "Teagan is a Bootblack based out of Oakland, CA. She shined her first p
 <div class="row">
   <div class="col-md-6">
     <h1> Teagan The Bootblack </h1>
-    <p>
-    Teagan is a Bootblack based out of Oakland, CA. She shined her first pair of shoes under her father’s watchful eye as a child before church. However, it has only been more recently that she has honed her craft and incorporated her technical skills into her leather practice. She began taking care of the leathers of her close friends and lovers in 2013, and decided to undertake more formal training in early 2015 under International Mr Bootblack 2014 Scout. She started bootblacking in public later in 2015 at local venues and events in the bay area including International Ms Leather, Leather HEAT, The SF Eagle, The Armory, Up Your Alley, and the Folsom Street Fair. In 2016 she had the honor of being appointed the title of SoCal Bootblack. She can most often be found working the stand on the patio stand at her home bar, the SF Eagle.
-    </p>
+
+    {% include leather_bio.html %}
 
     <h3> Tipping Guidelines </h3>
     <p>
