@@ -34,19 +34,19 @@ If you are interested please send me a PM message with what shift you are intere
   </tr>
   <tr>
     <th> 11:00-1:30pm </th>
-    <td> CJ </td>
+    <td> CJ (SF) </td>
     <td> </td>
   </tr>
 
   <tr>
     <th> 1:30-3:30pm </th>
-    <td> Vivian </td>
-    <td> </td>
+    <td> Vivian (SF) </td>
+    <td> Micky Rebel (PDX) </td>
   </tr>
 
   <tr>
     <th> 3:30-6:00pm </th>
-    <td> Irish </td>
-    <td> </td>
+    <td> Irish (TEX) </td>
+    <td> Brynn (SEA) </td>
   </tr>
 </table>
