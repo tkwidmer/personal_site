@@ -4,8 +4,8 @@ title: Playground Bootblacks @ Folsom 2016
 permalink: '/playground2016/'
 ---
 
-<h3> Bootblack Schedule for The Playground </h3>
-<h5> Folsom 2016 </h5>
+<h2> Bootblack Schedule for The Playground </h2>
+<h3> Folsom 2016 </h3>
 
 <p>
 Have you ever had the dream of doing the hot boots and leathers of your community at the world famous Folsom Street Fair? The Playground (Formerly known as “Venus Playground”) is looking for bootblacks of all skill levels to work the stands inside The Playground.
@@ -26,27 +26,41 @@ As always, any tips you make will be yours to keep! You worked hard for them!
 If you are interested please send me a PM message with what shift you are interested in!
 </p>
 
+<h3> Volunteer Schedule </h3>
 <table class="table table-bordered table-condensed">
   <tr>
     <th>          </th>
     <th> Stand 1 </th>
     <th> Stand 2 </th>
+    <th> Table </th>
   </tr>
   <tr>
     <th> 11:00-1:30pm </th>
     <td> CJ (CA) </td>
     <td> Cami Obscura (CA) </td>
+    <td> </td>
   </tr>
 
   <tr>
     <th> 1:30-3:30pm </th>
     <td> Vivian (CA) </td>
     <td> Micky Rebel (OR) </td>
+    <td> </td>
   </tr>
 
   <tr>
     <th> 3:30-6:00pm </th>
     <td> Irish (TX) </td>
     <td> Brynn (WA) </td>
+    <td> </td>
   </tr>
 </table>
+
+<h3>Logistics </h3>
+
+<p>
+We will be using a ticketing system like many events use. People can come get a ticket at any point during the day. When there is an open stand the person with the lowest ticket is up. Unlike the main stands at Folsom, there is no cost to get a ticket. This should help you as bootblacks focus on the boots rather than trying to keep your list on such a busy day like Folsom. The lack of cost to get a ticket should also equal better tips for you.
+</p>
+
+<p> There will be two stands present. Both of them will be equipped with footrests. They are my personal stands and footrests so <u> please be kind to them! </u> One stand is 3 feet tall and one is 2 feet tall. The 3 foot stand is a little hard to get people in an out of who may have mobility issues. Be sure to help your clients up and down the step stool.
+</p>
