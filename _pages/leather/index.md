@@ -13,7 +13,7 @@ excerpt: "Teagan is a Bootblack based out of Oakland, CA. She shined her first p
 
     <h3> Tipping Guidelines </h3>
     <p>
-    Give what you are able, but give something. I do not charge for my work, but I accept tips. My average tip is 15-30 dollars depending on how much work is involved and the size of the project. I am open to exchanges / trades that are not monetary as well.
+    Give what you are able, but give something. I do not charge for my work, but I accept tips. My average tip is 10-30 dollars depending on how much work is involved and the size of the project. I am open to exchanges / trades that are not monetary as well. No one turned away for lack of funds.
     </p>
 
     <h3> Services </h3>

@@ -2,6 +2,7 @@
 layout: leather_page
 title: Playground Bootblacks @ Folsom 2016
 permalink: '/playground2016/'
+excerpt: Have you ever had the dream of doing the hot boots and leathers of your community at the world famous Folsom Street Fair? The Playground (Formerly known as “Venus Playground”) is looking for bootblacks of all skill levels to work the stands inside The Playground.
 ---
 
 <h2> Bootblack Schedule for The Playground </h2>
