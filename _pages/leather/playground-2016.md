@@ -45,14 +45,14 @@ If you are interested please send me a PM message with what shift you are intere
     <th> 1:30-3:30pm </th>
     <td> Vivian (CA) </td>
     <td> Micky Rebel (OR) </td>
-    <td> </td>
+    <td> Lucky Rebel (OR) </td>
   </tr>
 
   <tr>
     <th> 3:30-6:00pm </th>
     <td> Irish (TX) </td>
     <td> Brynn (WA) </td>
-    <td> </td>
+    <td> Jax Black (OR)</td>
   </tr>
 </table>
 
