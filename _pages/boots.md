@@ -2,9 +2,6 @@
 layout: page
 title: Bootblack & Premium Leather Care
 permalink: '/pages/leathercare.html'
-redirect_from:
-  - '/boots.html'
-  - '/leathercare.html'
 ---
 
 <h1> Premium Leather Care </h1>
@@ -87,9 +84,6 @@ redirect_from:
     <h2> Products </h2>
   </div>
   <div class="col-sm-6">
-    <p>
-      I clean with a glycerine soap that I buy online and alter myself. I primarily work with Angelus products on high shine boots (<a href="http://angelusdirect.com/collections/shoe-polish/products/angelus-black-shoe-wax">Polish</a>, <a href="http://angelusdirect.com/collections/conditioners/products/lustre-cream-3-oz">Lustre Cream</a>). On garments and oil tans, I'm much more flexible but primarily use <a href="http://www.huberds.com/shoe-grease.html">Huberd's Shoe Grease</a> and <a href="http://www.obenaufs.com/Heavy-Duty-LP-8-oz-p/heavy-duty-lp-8.htm"> Obenhauf's Leather Preservative </a>. I also use Mr S Leather's Dubbin and <a href="http://www.cedarshoetree.com/meltonian-cream-1oz-p-28.html"> Meltonian Creme Polish </a> in certian situations. There are a few other products I use less often.
-    </p>
 
     <h2> Compensation </h2>
 
