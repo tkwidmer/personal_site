@@ -39,7 +39,7 @@ If you are interested please send me a PM message with what shift you are intere
     <th> 11:00-1:30pm </th>
     <td> CJ (CA) </td>
     <td> Cami Obscura (CA) </td>
-    <td> Allison Boots (CA) </td>
+    <td> Holly (CA) </td>
   </tr>
 
   <tr>
