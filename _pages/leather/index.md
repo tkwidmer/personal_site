@@ -20,7 +20,7 @@ redirect_from:
 
     <h3> Booking </h3>
     <p>      
-    I'm available to bootblack around the bay area and around the country at conferences, bars, parties, and other events. I own my own portable stand and a shoeshine box, but am happy to work on any equipment you already have set up. You can email me at tkwidmer [at] gmail [dot] com.
+    I'm available to bootblack around the bay area and around the country at conferences, bars, parties, and other events. I own my own portable stand and a shoeshine box, but am happy to work on any equipment you already have set up. You can <a href="/contact/"> contact me</a>.
     </p>
 
     <h3> Tipping Guidelines </h3>

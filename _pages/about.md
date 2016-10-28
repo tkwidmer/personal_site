@@ -27,7 +27,7 @@ engineer, she has also worked as an academic, activist, writer, educator, and vi
 lectured and presented her work all over the United States.
 
 ### Contact
-- tkwidmer[at]gmail.com
+<a href="/contact/"> contact me</a>.
 
 ### Headshot
 
@@ -40,4 +40,3 @@ lectured and presented her work all over the United States.
     <a href="/images/teags3.png" >download</a> (1800x1800)
   </div>
 </div>
-

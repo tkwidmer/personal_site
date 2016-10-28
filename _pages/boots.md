@@ -23,7 +23,7 @@ permalink: '/pages/leathercare.html'
 
     <p> I do take dropoff comissions, but really prefer to work with you 'in person' on your leather. I firmly believe that my role is about more than tending to just your leather goods. My ultimate goal is to make both you and your leather feel and look better when you leave my chair than when you sat down in it. Besides, the experiance is far less enjoyable for both you and myself. </p>
 
-    <p>I can often often found at bars and events arround the bay area. You can find my <a href="#schedule">  upcoming schedule </a> below. I also have a personal chair in my backyard and can sevice your leather goods at my place. Please send me an email at tkwidmer [at] gmail.com to schedule a private blacking session. </p>
+    <p>I can often often found at bars and events arround the bay area. You can find my <a href="#schedule">  upcoming schedule </a> below. I also have a personal chair in my backyard and can sevice your leather goods at my place. Please <a href="/contact/"> contact me</a> to schedule a private blacking session. </p>
   </div>
 
   <div class="col-sm-6">
@@ -119,7 +119,7 @@ permalink: '/pages/leathercare.html'
       If you are looking for a bootblack for your event, please send me a message. If my schedule allows it, I'd love to black your event. I black at events for free, and usually accept tips from customers (although this can be negotiated).
     </p>
     <p>
-      You can email me at tkwidmer [at] gmail [dot] com.
+      You can <a href="/contact/"> contact me</a> here.
     </p>
   </div>
   <div class="col-sm-6">

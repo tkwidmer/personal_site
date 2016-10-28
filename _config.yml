@@ -22,6 +22,10 @@ url: "http://www.teaganwidmer.me" # the base hostname & protocol for your site
 twitter_username: twidx
 github_username:  tkwidmer
 
+collections:
+  galleries:
+    output: true
+
 # Build settings
 pages: ./_pages
 markdown: kramdown
