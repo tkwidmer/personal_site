@@ -17,7 +17,9 @@ redirect_from:
 </div>
 
 <ul class="gallery index-gallery">
-  {% for gallery in site.galleries %}
+  {% assign sorted_galleries = site.galleries | sort:"index" %}
+
+  {% for gallery in sorted_galleries %}
     {% if gallery.excluded == true %}
       {% continue %}
     {% endif %}

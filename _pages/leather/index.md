@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-sm-8 col-md-8">
     <h1> Teagan The Bootblack </h1>
 
     {% include leather_bio.html %}
@@ -45,8 +45,8 @@ redirect_from:
 
   </div>
 
-  <div class="col-md-6">
-    <img src="/images/bootblack/bb_eagle.jpg">
+  <div class="col-xs-8 col-xs-offset-2 col-sm-4 col-sm-offset-0">
+    <img src="/images/bootblack/headshot.jpg">
     <div class="headroom">
       {% include planned_travel_schedule_socalbb.html %}
     </div>
