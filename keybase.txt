@@ -1,0 +1,68 @@
+
+://keybase.io/twidx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.teaganwidmer.me
+  * I am twidx (https://keybase.io/twidx) on keybase.
+  * I have a public key with fingerprint C780 EE19 F17E 450B 6673  E85E 9C13 6F5E 2951 CFC5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010183d8e71121bac061a89f8f4610b0b8b03c6a501b032459817d8bbc0104c85c690a",
+            "fingerprint": "c780ee19f17e450b6673e85e9c136f5e2951cfc5",
+            "host": "keybase.io",
+            "key_id": "9c136f5e2951cfc5",
+            "kid": "010183d8e71121bac061a89f8f4610b0b8b03c6a501b032459817d8bbc0104c85c690a",
+            "uid": "bc93fc547c7b469e60658ebcedd35919",
+            "username": "twidx"
+        },
+        "service": {
+            "hostname": "www.teaganwidmer.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486581569,
+    "expire_in": 157680000,
+    "prev": "c2aa5a1ae5a01c6b68c87cc166950bc8f94e2daf2c402dfeb0a3e49fd6bf53f9",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIuAnicrVJbaBRJFJ2JZtBBk0F8oLKuWx/+OI5d/aiunny4suuAsoqooAZ1qKq+
+PWlNuseeTkYNAf0QFh/sigvZGD+MIutH4gNfoPhWFCViXFiS+EAURUTxEUGiBK0O
+7p+f1k9V3Trn3HPvratjR8SScbN+9tMbA+O8+K1LexpjK9r9uc2I+/ZGlG1G62B4
+g3obSmF+nWujLFKwgqlmUzAxVjFnQiGYUcuhjk6wwhVOuaIJwgwFy4OqGxbFpk05
+F5KpC2oIYikMpZHjegUIioHrhVJWmFQBwJaDTdANhRNiakANsATWiGOAahlYOMKQ
+xDq/FDGkOc5KkHF9GZOX/LC9b+C/s+/GYTkuLE3K66YwuU4sIAoxKHABtq0ZFrYi
+YAkCjzWARIdl196AWtJIhppcAVFXozK+PpfL5UwIrMA8iWuAICOjaVQM/NAXfr0E
+1IVhMRvxw43FYQLw/FepPHc9W7ZSEpogKLm+h7JYIkXoRtpYp9IYNoiVRrCh6AaQ
+dyOEYRKqyBWlgaZoACpjBsMMDKZgQTihgppCYEIsOQ5BHUsH1WaOKnRFtR3gCtNA
+txybcMfQnKjgEqz3fJSVmUJWkJIlt+CxsDEA1HL54qqRsXgylqisiL5YLDk69f/H
+O/DLqNg/GJrqr2rL5pxKhanls6+1PmrsfEtfJT5WrKmdteZ5VfOu9PzdwdPuyswq
+NHAlt6Kmt2vBYPe7ldXlkyy3iebS7lB20s1Pp8e03q1RPn842jl99NSOMduG7l1J
+gNPf/nngevKn/NlblQcvH68+mxjcEWbO9MTHT3v/79SOlv9+61B7Dt2p3tmV2/lg
+oH9HbfP7edc29S0+keraG/tz8K/DP/y4pPz7haqq5Pm2tiUXjm1/XHF+7ZQXE+2e
+xBvy5I9f1e7X+2vP3ThMAnTEW8r3Tdhyv9MtzJ8ztPV27kxJnGiY3mqtjs9r6Xsw
+OTXjGXq46Niol6sbFs/8O9bbvuDnzTUL385o+wKF8T7U
+=Y95A
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/twidx
+
+==================================================================
