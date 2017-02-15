@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="row">
   <div class="col-md-10">
-    <p> I've been making photographs for about twelve years. I first picked up a manual metal-cased Canon SLR, but these days I shoot a Canon 7D. I enjoy shooting events, environmental portraits, and landscapes / architecture. If you are in need of a photographer, please <a href="/contact/"> contact me</a>.
+    <p> I've been making photographs for about twelve years. I first picked up a manual metal-cased Canon SLR, but these days I shoot a Canon 7D and a Fujifilm X100-T. I enjoy shooting events, environmental portraits, and landscapes / architecture. If you are in need of a photographer, please <a href="/contact/"> contact me</a>.
     </p>
   </div>
 </div>
