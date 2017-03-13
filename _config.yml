@@ -22,6 +22,9 @@ url: "http://www.teaganwidmer.me" # the base hostname & protocol for your site
 twitter_username: twidx
 github_username:  tkwidmer
 
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
 collections:
   galleries:
     output: true

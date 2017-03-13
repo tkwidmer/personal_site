@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Introductory Post
 tags:
-  - womenintech
-  - diversityintech
   - programming
 ---
 

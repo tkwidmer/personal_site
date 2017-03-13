@@ -43,5 +43,3 @@ After the hackathon, I found it hard to continue working on the project since I 
 The idea for Refuge Restrooms was born and in early February of 2014, only five short months after starting to learn Ruby, I launched the initial launch of Refuge Restrooms. I had built something. And beyond that it had gotten some attention: the Advocate wrote about it, as did The Huffington Post, and so did Feministing. After that it was a whirlwind of developing and managing the development of an open source project. The application has come a long way and still has miles to go. There’s lots of work to be done on it, including hopefully native mobile applications on iOS and Android. Looks like it’s time to start teaching myself how to write swift. =)
 
 The real payoff for me was getting hired. In April I accepted a paid internship with a finance tech company in SF as a software engineer. It has been incredibly rewarding and at times quite challenging, but I earned it. I worked hard, taught myself something new — and improved my life. And I think you can do that too!
-
-

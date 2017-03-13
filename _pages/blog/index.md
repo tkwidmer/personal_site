@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: A Cubicle Of My Own
-permalink: '/blog.html'
+permalink: '/blog/'
 ---
 
 <div class="posts">
@@ -12,6 +12,8 @@ permalink: '/blog.html'
         {{ post.title }}
       </a>
     </h3>
+
+    {{post.categories}}
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
     <p>
