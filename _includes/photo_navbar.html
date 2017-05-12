@@ -1,7 +1,3 @@
----
-layout: constrained
----
-
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -12,28 +8,21 @@ layout: constrained
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/leather/">Teagan The Bootblack</a>
+      <a class="navbar-brand" href="/galleries">Photography</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/leather/socalbb2016/">SoCalBB2016</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Classes<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Galleries<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/classes/feeding_your_soul/">Feeding Your Sole</a></li>
+            <li><a href="/galleries/wedding/">Wedding</a></li>
+            <li><a href="/galleries/portrait/">Portrait</a></li>
+            <li><a href="/galleries/events/">Events</a></li>
           </ul>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-
-{% unless page.hide_splash %}
-  <img class="banner" src="/images/bootblack/bb_header.jpg">
-{% endunless %}
-
-<article class="page headroom">
-  {{ content }}
-</article>

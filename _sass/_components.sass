@@ -10,25 +10,23 @@ img.banner
 .even-more-headroom
   margin-top: 80px
 
-ul.gallery
-  margin: 0
+.flexbox-gallery
+  display: flex
+  flex-flow: row wrap
 
-  &.index-gallery
-    li
-      margin-right: 25px
+  a
+    flex: auto
+    height: 300px
+    width: 300px
+    margin: .1vw
 
-li.thumbnail-wrap
-  display: inline-block
+    .gallery-img
+      background-position: center center
+      background-size: cover
+      width: 100%
+      height: 100%
+      display: inline-block
 
-.thumbnail
-  width: 200px
-  height: 200px
-  padding: 10px
-  img.img-responsive
-    padding: 9px
-
-.gallery-img
-  background-position: center center
-  background-size: cover
-  width: 100%
-  height: 100%
+.navbar-toggle
+  position: fixed
+  right: 15

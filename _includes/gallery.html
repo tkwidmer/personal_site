@@ -1,22 +1,21 @@
-<h1>{{page.title}}</h1>
-<p>
-  <a href="/galleries/"> return to all galleries</a>
-</p>
+<h1>{{page.title}}</h1><small><a href="/galleries/"> return to all galleries</a></small>
 
-<ul class="gallery" id="{{ page.gallery }}">
+<div class="clearfix">
+  
+</div>
+<div class="flexbox-gallery">
   {% for gallery in site.data.galleries %}
     {% if gallery.id == page.gallery %}
       {% for image in gallery.images %}
-        <li class="thumbnail-wrap">
-          <a class="thumbnail" href="{{image.path}}"
-            data-lightbox="{{ page.gallery }}"
-            data-title="{{ image.title }}" >
+          <a href="{{image.path}}"
+            data-toggle="lightbox"
+            data-gallery="{{gallery.id}}">
             <div class="gallery-img"
               style="background-image: url('{{image.path}}')"
-              title="{{ image.title}}"></div>
+              title="{{ image.title}}">
+            </div>
           </a>
-        </li>
       {% endfor %}
     {% endif %}
   {% endfor %}
-</ul>
+</div>
