@@ -2,13 +2,15 @@
 layout: post
 published: true
 title: "So How Did You Learn How to Program?"
-tags:
-  - programming
+#tags:
+#  - programming
 ---
 
 By far, the question I get asked the most since I taught myself how to program and got a job as a software engineer is: “How did you teach yourself to program?” It has occurred to me that there might be more people interested in going down this path, so I thought I would explain what I did in my pursuit of a career as a software developer.
 
-![An screenshot of a 'hello world' program.](/images/hello_world.png)
+<code>
+puts 'hello world'
+</code>
 
 I decided to start learning how to code after a conversation with a friend (who works in tech) late one night last summer in a bar in San Francisco. She asked me a question and wanted to know if I was able to come up with the answer. The question she asked was this:
 
@@ -18,9 +20,9 @@ I sat for about five minutes playing out different possible solutions in my head
 
 Before that moment the only coding I had ever done was some basic HTML / CSS work on my Myspace page in high school (hello early 2000 crowd), Blogger blog, and eventually a Wordpress blog. I created an account and clicked on “learn.” Now I had to make a decision. Which language did I want to learn? I already knew some basic HTML and CSS so I decided I wanted to learn something new. The description for JavaScript said that I would learn how to write my own browser based games. I had always wanted to make video games and so it seemed like the logical next step.
 
-<figure style="float: right; margin: 5px; text-align: center;">
-  <img src="/images/atm_program.png" width="400" style="padding-left: 10px" >
-  <figcaption><h5> A screenshot of my final CodeAcademy Ruby assignment.</h5> </figcaption>
+<figure class="figure float-right">
+  <img class="figure-img img-fluid rounded" src="/images/atm_program.png" width="400" >
+  <figcaption class="figure-caption"> A screenshot of my final CodeAcademy Ruby assignment. </figcaption>
 </figure>
 
 I got about 25% of the way through the coursework before I got stuck on something and realized how difficult JavaScript was. There were so many symbols and I always seemed to forget to do something simple like place a semicolon. I gave up after two weeks and thought, “oh well, maybe I was just too stupid.” I was wrong.
@@ -33,9 +35,9 @@ The first place I headed was the rails guide “Getting Started with Rails.” T
 
 I applied to App Academy (a bootcamp style program for Ruby on Rails), but didn’t get in. It was pretty hard to get rejected after I felt like I had spent so much time and effort on teaching myself Ruby. I didn’t want to let it get to me, so I decided to attend a hackathon. At it I felt a little lost, but presented an idea for a web application to my group. They didn’t know Ruby so we started working on it in JavaScript and Python. But by this point I knew enough about the concepts to be able to lookup and implement syntax to be able to contribute a little bit to the group.
 
-<figure style="float: left; margin: 5px; text-align: center;">
-  <img src="/images/refuge_screenshot_2.png" width="400" style="padding-left: 10px" >
-  <figcaption><h5> A screenshot of my final CodeAcademy Ruby assignment.</h5> </figcaption>
+<figure class="figure float-right">
+  <img class="figure-img img-fluid rounded" src="/images/refuge_screenshot_2.png" width="300" >
+  <figcaption class="figure-caption"> A screenshot of my final CodeAcademy Ruby assignment. </figcaption>
 </figure>
 
 After the hackathon, I found it hard to continue working on the project since I didn’t know a lot of JS or Python and it felt like I was starting over trying to learn another language. We also did some things that could have been improved and didn’t make the site as good as it could have been. So I decided that I was going to try to remake the site in Ruby on Rails. If nothing else and it never went to production, it would be a really good learning experience for me.

@@ -1,13 +1,17 @@
 ---
 layout: constrained
 ---
-<div class="row">
-  <div class="col-md-8 col-md-offset-2"
-</div>
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
+
+<ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="/">Home</a></li>
+  <li class="breadcrumb-item"><a href="/blog">Blog Index</a></li>
+  <li class="breadcrumb-item active">Post</li>
+</ol>
+
+<article class="post headroom">
+  <h2 class="post-title">{{ page.title }}</h2>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date headroom">{{ page.date | date_to_string }}</time>
-  <div class="headroom">
+  <div>
     {% for tag in page.tags %}
       <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag btn btn-default">
         <i class="fa fa-tag" ></i> &nbsp {{ tag }}
@@ -15,7 +19,7 @@ layout: constrained
     {% endfor %}
   </div>
 
-  <div class="content more-headroom">
+  <div class="content headroom">
     {{ content }}
   </div>
 </article>

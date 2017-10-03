@@ -2,16 +2,13 @@
 layout: constrained
 ---
 
-<div class="row">
-  <div class="col-md-8 col-md-offset-2">
-    <h1 class="page-title" style="text-align: center">{{ site.blog_title }}</h1>
-    <p style="text-align:center"> I taught myself how to code. I write about #feminism and #diversity in tech </p>
+<ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="/">Home</a></li>
+  <li class="breadcrumb-item active">Blog Index</li>
+</ol>
 
-    <article class="blog">
-      <div class="headroom">
-        {{ content }}
-      </div>
-    </article>
+<p> I taught myself how to code. this is my blog. </p>
 
-  </div>
-</div>
+<article class="blog">
+  {{ content }}
+</article>

@@ -6,7 +6,7 @@ permalink: '/blog/'
 
 <div class="posts">
   {% for post in site.posts %}
-  <article class="post even-more-headroom">
+  <article class="post headroom">
     <h3 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
@@ -22,6 +22,16 @@ permalink: '/blog/'
   </article>
   {% endfor %}
 </div>
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+    <li class="page-item"><a class="page-link" href="#">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item"><a class="page-link" href="#">Next</a></li>
+  </ul>
+</nav>
 
 <div class="pagination">
   {% if paginator.next_page %}

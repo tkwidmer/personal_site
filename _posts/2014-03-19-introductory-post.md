@@ -1,19 +1,19 @@
 ---
 layout: post
-published: true
-title: Introductory Post
-tags:
-  - programming
+published: false
+title: A Cubicle Of My Own
+#tags:
+#  - programming
 ---
 
 I’ve been thinking a lot about Virginia Woolf’s groundbreaking essay _A Room of One’s Own_ and how her thesis still holds true almost eighty years later.
 
 Woolf notes in her essay that it’s really difficult to achieve success when you have not been given the opportunity to do so. Over the course of her writing she outlines the multiplicity of factors that lead to having the opportunity to be successful. She points out that part of the reason that men historically achieved great success and written prolifically was that they were given the opportunity (read: funding, housing) while the majority of women have not. Her thesis is that “a woman must have money and a room of her own if she is to write fiction.”
 
-<!-- <figure style="float: left; margin: 5px; text-align: center;">
-  <img src="http://www.virginiawoolfsociety.co.uk/images/VW%20Monks%20House.JPG" width="300" style="padding-right: 10px" >
-  <figcaption><h5> Virginia Woolf in a room of her own.</h5 </figcaption>
-</figure> -->
+<figure class="figure float-right">
+  <img class="figure-img img-fluid rounded" src="http://www.virginiawoolfsociety.co.uk/images/VW%20Monks%20House.JPG" width="300" >
+  <figcaption class="figure-caption"> Virginia Woolf in a room of her own </figcaption>
+</figure>
 
 I’d like to rephrase Woolf’s thesis for the 21st century and my situation: “A woman must have financial support and a cubicle of their own if they are to learn how to code.”
 
@@ -33,4 +33,4 @@ I've started a [GitTip account](http://www.gittip.com/tkwidmer) for people who w
 
 I am a feminist. I believe in looking an analyzing the systems of power that lead to the circumstances in which we are living. The tech has a pretty serious culture problem and is [only now starting to recognize](http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/) just how much this issue may be tied to the gender gap in tech. Technology is a male dominated field. And its for the same reason that every other field is male dominated. Women are not often given the resources to train themselves to succeed. As I start up this professional programming focused blog as a woman trying to get into the tech industry - I felt it was important to recognize this. This is why I've decided to name this blog "A Cubicle Of My Own." On this blog Ill be talking about programming, about my journey as a self taught web developer, but also issues related to women in tech and diversity in tech. I hope you enjoy it.
 
-[Donate to my Gittip here!](http://www.gittip.com/tkwidmer)
+<!-- [Donate to my Gittip here!](http://www.gittip.com/tkwidmer) -->
